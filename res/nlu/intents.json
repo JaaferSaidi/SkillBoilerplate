@@ -1,7 +1,12 @@
 {
-  "hello-world" : {
-		"visibility" : "always",
-		"entities" : [
-		]
-	}
+  "first": {
+    "visibility": "always",
+    "entities": [
+    ]
+  },
+  "second": {
+    "visibility": "always",
+    "entities": [
+    ]
+  }
 }

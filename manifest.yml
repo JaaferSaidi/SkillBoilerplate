@@ -5,6 +5,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: <<name of the skill. example: my-skill>>
-  host: <<url to skill. example: my-skill. this would become "my-skill.mybluemix.net">>
+  name: jing-yang
+  host: jing-yang
 disk_quota: 256M

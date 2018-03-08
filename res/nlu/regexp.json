@@ -1,9 +1,15 @@
 {
   "intents" : [
     {
-      "name" : ["hello-world"],
+      "name" : ["first"],
       "grammar" : [
-        "hello"
+        "I eat * fish"
+      ]
+    },
+    {
+      "name" : ["second"],
+      "grammar" : [
+        "Yes I eat the fish"
       ]
     }
   ],
